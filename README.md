@@ -1,36 +1,104 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💼 Portfólio - André Ribeiro | Portfolio
 
-## Getting Started
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🇧🇷 **Sobre o Projeto**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este é o meu portfólio pessoal, desenvolvido com foco em **performance**, **design limpo** e **navegação intuitiva**.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Layout planejado no **Figma**  
+- Codificado no **Visual Studio Code**  
+- Desenvolvido com **Next.js** e **Tailwind CSS**  
+- Deploy via **Vercel**  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+- Tipografia: **JetBrains Mono** e **Inter**  
+- Logo criada no **Adobe Illustrator** e convertida para **favicon.ico**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🔗 **Acesse o portfólio online:**  
+[![Ver Portfólio](https://img.shields.io/badge/🔗%20Acessar%20Portfólio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://seu-portfolio.vercel.app)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Funcionalidades principais:**
 
-## Deploy on Vercel
+- Navegação fluida e responsiva  
+- Seções: Sobre mim, Habilidades, Projetos e Contato  
+- Apresentação de projetos com links e descrições  
+- Contato rápido via LinkedIn ou email  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📦 **Tecnologias utilizadas**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Next.js  
+- Tailwind CSS  
+- Vercel  
+
+🧩 **Ferramentas de Design e Desenvolvimento**
+
+- Figma → Layout e prototipagem  
+- Visual Studio Code → Ambiente de desenvolvimento  
+- Adobe Illustrator → Logo para favicon  
+
+🖋️ **Tipografia**
+
+- JetBrains Mono → elementos de código e destaque  
+- Inter → texto principal e conteúdo  
+
+
+📄 **Licença**  
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
+
+---
+
+🇺🇸 **About the Project**  
+
+This is my personal portfolio, developed with a focus on **performance**, **clean design**, and **intuitive navigation**.  
+
+- Layout designed in **Figma**  
+- Coded in **Visual Studio Code**  
+- Developed with **Next.js** and **Tailwind CSS**  
+- Deployment via **Vercel**  
+- Typography: **JetBrains Mono** and **Inter**  
+- Logo created in **Adobe Illustrator** and converted to **favicon.ico**
+
+🔗 **Access the live portfolio:**  
+[![View Portfolio](https://img.shields.io/badge/🔗%20View%20Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://seu-portfolio.vercel.app)
+
+**Main features:**
+
+- Smooth and responsive navigation  
+- Sections: About Me, Skills, Projects, and Contact  
+- Project showcase with links and descriptions  
+- Quick contact via LinkedIn or email  
+
+📦 **Technologies Used**
+
+- Next.js  
+- Tailwind CSS  
+- Vercel  
+
+🧩 **Design & Development Tools**
+
+- Figma → Layout & prototyping  
+- Visual Studio Code → Development environment  
+- Adobe Illustrator → Logo & favicon  
+
+🖋️ **Typography**
+
+- JetBrains Mono → code elements & highlights  
+- Inter → main text & content  
+
+📄 **Licença / License**
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
+
+---
+
+## 📬 **Contato / Contact**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-ribeiro-dev)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:af.cribeiro93@gmail.com)
