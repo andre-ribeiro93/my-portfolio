@@ -8,7 +8,7 @@
 
 ---
 
-🇧🇷 **Sobre o Projeto**
+## 🇧🇷 **Sobre o Projeto**
 
 Este é o meu portfólio pessoal, desenvolvido com foco em **performance**, **design limpo** e **navegação intuitiva**.  
 
@@ -22,8 +22,9 @@ Este é o meu portfólio pessoal, desenvolvido com foco em **performance**, **de
 - Tipografia: **JetBrains Mono** e **Inter**  
 - Logo criada no **Adobe Illustrator** e convertida para **favicon.ico**
 
-🔗 **Acesse o portfólio online:**  
-[![Ver Portfólio](https://img.shields.io/badge/🔗%20Acessar%20Portfólio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://seu-portfolio.vercel.app)
+### 🔗 **Acesse o portfólio online:**  
+
+[![Ver Portfólio](https://img.shields.io/badge/🔗%20Acessar%20Portfólio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://andre-ribeiro-dev.vercel.app )
 
 **Funcionalidades principais:**
 
@@ -49,13 +50,9 @@ Este é o meu portfólio pessoal, desenvolvido com foco em **performance**, **de
 - JetBrains Mono → elementos de código e destaque  
 - Inter → texto principal e conteúdo  
 
-
-📄 **Licença**  
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
-
 ---
 
-🇺🇸 **About the Project**  
+## 🇺🇸 **About the Project**  
 
 This is my personal portfolio, developed with a focus on **performance**, **clean design**, and **intuitive navigation**.  
 
@@ -66,8 +63,9 @@ This is my personal portfolio, developed with a focus on **performance**, **clea
 - Typography: **JetBrains Mono** and **Inter**  
 - Logo created in **Adobe Illustrator** and converted to **favicon.ico**
 
-🔗 **Access the live portfolio:**  
-[![View Portfolio](https://img.shields.io/badge/🔗%20View%20Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://seu-portfolio.vercel.app)
+### 🔗 **Access the live portfolio:** 
+
+[![View Portfolio](https://img.shields.io/badge/🔗%20View%20Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://andre-ribeiro-dev.vercel.app)
 
 **Main features:**
 
@@ -93,12 +91,15 @@ This is my personal portfolio, developed with a focus on **performance**, **clea
 - JetBrains Mono → code elements & highlights  
 - Inter → main text & content  
 
-📄 **Licença / License**
+
+---
+
+## 📄 **Licença / License**
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 ---
 
 ## 📬 **Contato / Contact**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-ribeiro-dev)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:af.cribeiro93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-ribeiro-dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:af.cribeiro93@gmail.com)
