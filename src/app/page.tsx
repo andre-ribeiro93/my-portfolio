@@ -5,7 +5,7 @@ import Skills from "@/components/skills/skills";
 import Projetos from  "@/components/projetos/projects";
 import Footer from "@/components/footer/footer";
 import MouseEffect from "@/components/mouse-effect";
-import ContactForm from "@/components/contact";
+import ContactForm from "@/components/contact/contact";
 
 export default function Home() {
   return (

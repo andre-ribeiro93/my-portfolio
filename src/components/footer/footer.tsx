@@ -14,7 +14,7 @@ const FooterLink = ({ href, children }: FooterLinkProps) => (
 
 export default function Footer() {
   return (
-    <footer className="pl-7 pr-20 pb-24">
+    <footer className="pl-7 pr-7 sm:pr-20 pb-24">
 
       <span className="font-light">
         Projetado no <FooterLink href={url.figma}>Figma</FooterLink>,{' '}

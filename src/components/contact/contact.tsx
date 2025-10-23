@@ -4,9 +4,11 @@ import React, { useState } from "react";
 import { useForm } from "@formspree/react";
 import { MdErrorOutline } from "react-icons/md";
 import { FaArrowRight } from "react-icons/fa6";
+import Links from "../Links";
+import { contactItems } from "./contact-items";
 
 export default function ContactForm() {
-  
+
   const [state, handleSubmitFormspree] = useForm(process.env.NEXT_PUBLIC_FORM_KEY!);
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
@@ -99,16 +101,33 @@ export default function ContactForm() {
           {messageError}
         </span>}
 
-      <button
-        type="submit"
-        disabled={state.submitting}
-        className="group flex items-center text-text-primary gap-x-1 pt-5 w-fit mb-12 cursor-pointer"
-      >
-        <span className="font-medium font-mono border-b-[1px] border-transparent group-hover:border-detail2-90 transition-colors duration-300">
-          Enviar
-        </span>
-        <FaArrowRight className="group-hover:translate-x-2 transition-transform duration-300" />
-      </button>
+      <div className="flex pt-5 mb-12 justify-between w-full">
+
+        <button
+          type="submit"
+          disabled={state.submitting}
+          className="group flex items-center text-text-primary gap-x-1 w-fit cursor-pointer"
+        >
+          <span className="font-medium font-mono border-b-[1px] border-transparent group-hover:border-detail2-90 transition-colors duration-300">
+            Enviar
+          </span>
+          <FaArrowRight className="group-hover:translate-x-2 transition-transform duration-300" />
+        </button>
+
+        <ul className="flex items-center gap-x-5 font-mono font-bold text-[28px]">
+          {contactItems.map((item) => (
+            <li key={item.id}>
+              <Links
+                href={item.href}
+                variant="default"
+              >
+                <item.icon />
+              </Links>
+            </li>
+          ))}
+        </ul>
+        
+      </div>
     </form>
   );
 }

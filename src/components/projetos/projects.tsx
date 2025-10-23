@@ -20,7 +20,7 @@ export default function Projetos() {
                 <img
                   src={item.src}
                   alt={item.alt}
-                  className="w-full sm:w-1/4 aspect-[16/9] object-cover rounded-sm border border-border-50"
+                  className="w-full sm:w-1/4 aspect-[16/9] min-w-[180px] object-cover rounded-sm border border-border-50"
                 />
 
                 <div className="pt-5 sm:pt-0">
