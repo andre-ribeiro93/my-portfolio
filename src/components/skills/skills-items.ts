@@ -9,7 +9,7 @@ export const skillsItems = [
     stacks: [
       { name: "HTML", id: 1.1 },
       { name: "CSS", id: 1.2 },
-      { name: "JavaScrip", id: 1.3 },
+      { name: "JavaScript", id: 1.3 },
       { name: "TypeScript", id: 1.4 },
       { name: "React", id: 1.5 },
       { name: "Next.js", id: 1.6 },
